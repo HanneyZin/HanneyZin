@@ -49,4 +49,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/HanneyZin/HanneyZin/output/snake.svg" alt="Snake animation" />
+
 ###
